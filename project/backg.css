@@ -1,0 +1,99 @@
+h1
+{
+	font-family: Helvetica, "sans-serif";
+	font-size: 36px;
+}
+h2
+{
+    font-family: Helvetica, "sans-serif";
+}
+h4
+{
+	font-size: 46px;
+}
+#header /* Styles for Heading */
+{
+	padding: 10px;
+	background-color: #00ccff;
+	color: #000000;
+	text-align: center;
+}
+#page_area 
+{
+	/*position:fixed;      /*  fixed value covers the entire browser window */
+	position: fixed;
+	background: #00ccff;
+	width: 100%;
+	background-repeat: no-repeat;
+}
+#content_area 
+{
+	position: fixed;    
+	top: 100px;  
+	left: 220px;
+	height: 100%;
+	background-color: #000000;
+	padding: 10px;
+}
+#content_area2
+{
+	position: relative;    
+	top: 100px;  
+	left: 220px;
+	height: 150%;
+	background-color: #000000;
+	padding: 10px; 	
+}
+#content_area3
+{
+	position: relative;    
+	top: 100px;  
+	left: 220px;
+	height: 100%;
+	background-color: #000000;
+	padding: 10px; 	
+}
+#desc
+{
+	float: left; 
+	text-align: left; 
+	padding: 10px;
+	font-size: 22px;
+	font-family: Arial;
+	color: FFFFFF;
+} 
+#linkpages 
+{
+	position: relative;	
+	float: left; 
+	width: 220px;
+	height: 100vh;		
+	background-color: #00ccff;
+	text-align: center;  
+}
+#enq
+{
+	float: left;
+	padding: 10px;
+	font-size: 22px;
+	font-family: Arial;
+	color: FFFFFF;
+}
+.image
+{
+	position: relative;	
+	float: right;
+	margin-left: 10x;
+	margin-right: 50px;
+	border: solid;
+	border-color: white;
+}
+.image2
+{
+	position: relative;	
+	float: left;
+	margin-left: 10x;
+	margin-right: 20px;
+	border: solid;
+	border-color: white;
+}
